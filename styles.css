@@ -18,16 +18,13 @@ header {
     position: fixed;
     border: 1px;
     top: 0;
-}
-
-#header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     background-color: white;
 }
 
-#header img {
+header img {
     height: 100%;
     margin-left: 3vw;
 }
